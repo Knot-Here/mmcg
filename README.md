@@ -1,4 +1,4 @@
-# market maker
+# market maker card game
 
 A terminal drill for market *taking*: the computer quotes a two-sided market on
 the sum of a hand of cards, you decide buy / sell / skip and a size, then you
